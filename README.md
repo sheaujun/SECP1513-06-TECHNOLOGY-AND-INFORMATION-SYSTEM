@@ -17,8 +17,8 @@ I'm Tan Sheau Jun<br>I study in the field of computer science ( Software enginee
   
 ### c. Recommended
 #### Courses
-- [Advanced Web Development](Link)
-- [Data Structures and Algorithms](Link)
+- Modern-CPP-Programming (https://github.com/federico-busato/Modern-CPP-Programming)
+- Java (https://github.com/topics/java-course)
 
 #### Certificates
 -E-CERTIFICATE EXCEL WORKSHOP'23
