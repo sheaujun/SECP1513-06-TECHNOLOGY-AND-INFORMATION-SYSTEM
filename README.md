@@ -4,6 +4,8 @@
 # 💫 About Me:
 I'm Tan Sheau Jun<br>I study in the field of computer science ( Software engineering)<br>I'm a shy girl<br>I aim to getting flying color in all the exam
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sheaujun_0110) 
 
 ### b. Core
 #### Education
@@ -13,7 +15,9 @@ I'm Tan Sheau Jun<br>I study in the field of computer science ( Software enginee
 
 #### Skills
 - C++
-- R
+- Java
+
+- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   
 ### c. Recommended
 #### Courses
