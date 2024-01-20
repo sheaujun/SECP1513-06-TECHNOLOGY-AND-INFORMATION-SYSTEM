@@ -13,31 +13,20 @@ I'm Tan Sheau Jun<br>I study in the field of computer science ( Software enginee
 
 #### Skills
 - C++
-- R 
+- R
+  
 ### c. Recommended
-
 #### Courses
-
-- [Course 1](Link)
-- [Course 2](Link)
-- ...
+- [Advanced Web Development](Link)
+- [Data Structures and Algorithms](Link)
 
 #### Certificates
-
-- [Certificate 1](Link)
-- [Certificate 2](Link)
-- ...
+-E-CERTIFICATE EXCEL WORKSHOP'23
 
 ### d. Additional
-
 #### Honors and Awards
-
-- [Award 1]
-- [Award 2]
-- ...
+Employee of the Month (SpringC)
 
 #### Projects
-
-- [Project 1](Link) - Brief description
-- https://i.pinimg.com/originals/07/32/2e/07322ea49bd9931715a44e6943f9b122.gif
+-Portfolio Website 
 
