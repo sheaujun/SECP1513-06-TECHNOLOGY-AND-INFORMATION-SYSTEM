@@ -10,6 +10,8 @@ I'm Tan Sheau Jun<br>I study in the field of computer science ( Software enginee
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sheaujun_0110) 
+![image](https://github.com/sheaujun/SECP1513-06-TECHNOLOGY-AND-INFORMATION-SYSTEM/assets/147408149/54f7a7f8-a528-4f55-82e7-503e917d09b4)
+
 
 ### b. Core
 #### Education
