@@ -19,8 +19,7 @@ I'm Tan Sheau Jun<br>I study in the field of computer science ( Software enginee
 - **University**: University Teknologi Malaysia (UTM) Skudai
 - **Graduation Year**: 2027
 
-#### Skills ![image](https://github.com/sheaujun/SECP1513-06-TECHNOLOGY-AND-INFORMATION-SYSTEM/assets/147408149/ed879759-fea4-4cec-807f-fd9eb9810ec5)
-
+#### Skills 
 - C++
 - Java
 
@@ -42,3 +41,4 @@ Employee of the Month (SpringC)
 #### Projects
 -Portfolio Website (https://github.com/sheaujun)
 
+![giphy (1)](https://github.com/sheaujun/SECP1513-06-TECHNOLOGY-AND-INFORMATION-SYSTEM/assets/147408149/a936850a-0c18-44eb-8ce6-9d4cde8f0cf7)
