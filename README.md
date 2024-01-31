@@ -1,6 +1,7 @@
 # SECP1513-06-TECHNOLOGY-AND-INFORMATION-SYSTEM
 ![image](https://github.com/sheaujun/SECP1513-06-TECHNOLOGY-AND-INFORMATION-SYSTEM/assets/147408149/ff06c41f-a4cb-466b-8534-d38d1f5007f7)
 
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNodmJzeTJva2VqNnZ1NmhnMG16MW9icXlzbWtuemEyZzZzYmg0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif
 # 💫 About Me:
 I'm Tan Sheau Jun<br>I study in the field of computer science ( Software engineering)<br>I'm a shy girl<br>I aim to getting flying color in all the exam!
 
